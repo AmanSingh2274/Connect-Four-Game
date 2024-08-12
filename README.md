@@ -1,5 +1,5 @@
 # Connect Four Game in Java
-
+ 
 ## Overview
 This is a simple implementation of the classic Connect Four game, developed in Java. The game allows two players to take turns dropping discs into a 7x6 grid, with the objective of being the first to connect four discs in a row, either horizontally, vertically, or diagonally.
 
