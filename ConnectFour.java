@@ -1,4 +1,4 @@
-import java.util.Scanner; 
+import java.util.Scanner;
 
 public class ConnectFour {
     private static final int ROWS = 6;
